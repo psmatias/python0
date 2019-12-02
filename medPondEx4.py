@@ -12,4 +12,4 @@ peso3 = int(input('Digite o peso do terceiro valor: '))
 
 mp = ((valor1 * peso1) + (valor2 * peso2) + (valor3 * peso3))/(peso1+peso2+peso3)
 
-print("A média é: ", mp)
+print("A média ponderada é: ", mp)
